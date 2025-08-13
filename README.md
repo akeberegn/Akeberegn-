@@ -1,4 +1,4 @@
-### Hello 👋 I'm Akeber (Ake) 🚀
+### Hello 👋 I'm  (Ake) 🚀
 
 I'm a passionate self-taught developer from Ethiopia 🇪🇹 with a love for technology, programming, and creative problem-solving. I am actively learning and building applications for the web.
 
@@ -29,17 +29,4 @@ This is a full-stack web application designed to help Forex and Crypto traders t
 -   Data visualization with interactive charts.
 
 
----
 
-### 🎮 My "Gamer Code"
-
-When I'm not coding, you can find me diving into different worlds.
-
-```javascript
-const Akeber = {
-  pronouns: "he/him",
-  country: "Ethiopia",
-  interests: ["Gaming 🕹️", "Reading Books 📚", "Exploring Tech 💡"],
-  currentlyPlaying: ["FIFA", "Call of Duty", "Elden Ring"],
-  gamerQuote: "We don't stop playing because we grow old; we grow old because we stop playing."
-}
