@@ -1,3 +1,45 @@
-# Akeberegn-
-Hello 👋 I'm Ake  🚀  From Ethiopia, I am passionate about the world of technology and programming and eager to learn new things. I am currently learning application and website development, and I enjoy solving problems with code.  🌱 Currently, I am learning JavaScript, React, and Python.  💼 I am working on my Trading Journal project.  Frontend  Backend  Database  Tools  <img src="https://skillicons.dev/icons?i=html,css,js" />  <img src="https://skillicons.dev/icons?i=nodejs,python" />  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />  <img src="https://skillicons.dev/icons?i=git,github,vscode" />  
-<table width="100%"> <tr> <td width="50%" valign="top"> <h3>📊 Trading Journal</h3> <p>This project is a web application that helps traders record, analyze, and improve their trading performance.</p> <p> <a href=" target="_blank"> <img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-181717?style=for-the-badge&logo=github"/> </a> </p> </td> <td width="50%" valign="top"> <h <p>I'm planning to do this project so that any Forex and Crypto traders can easily access their trading journals here.</p> <p> <!-- <a href="[Insert your project's GitHub link here]" target="_blank"> <img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-181717?style=for-the-badge&logo=github"/> </a> --> </p> </td> </tr> </table>  <br/>  🎮 My "Gamer Code" In addition to coding, I enjoy these things in my free time.  const Akeber = {   pronouns: "he" | "him",   country: "Ethiopia",   interests: ["Gaming 🕹️", "Reading Books 📚", "Exploring Tech 💡"],   currentlyPlaying: ["FIFA", "Call of Duty", "Your Favorite Game"],   gamerQuote: "We don't stop playing because we grow old; we grow old because we stop playing." }  <br/>  📫 How to Reach Me  <p align="left"> <a href="mailto:akeberegnaweke@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="[Insert your LinkedIn profile link here]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/AkeEtn?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> </p>
+### Hello 👋 I'm Akeber (Ake) 🚀
+
+I'm a passionate self-taught developer from Ethiopia 🇪🇹 with a love for technology, programming, and creative problem-solving. I am actively learning and building applications for the web.
+
+🌱 **Currently Learning:** JavaScript, React, and Python.
+💼 **Open to:** Collaboration on projects and entry-level developer roles.
+
+---
+
+### 💻 My Tech Stack
+
+| Frontend | Backend | Database | Tools |
+| :--- | :--- | :--- | :--- |
+| React | Python (Flask/Django) | PostgreSQL | Git & GitHub |
+| JavaScript (ES6+) | Node.js (Express) | MongoDB | VS Code |
+| HTML5 & CSS3 | REST APIs | MySQL | Docker |
+| Tailwind CSS | | | Figma |
+
+---
+
+### 📊 My Featured Project: Trading Journal
+
+This is a full-stack web application designed to help Forex and Crypto traders to meticulously record, analyze, and ultimately improve their trading performance.
+
+#### ✨ Key Features:
+-   Secure user authentication and data privacy.
+-   Intuitive forms to log detailed trade information (e.g., pairs, strategy, risk-reward ratio).
+-   Dynamic dashboard with performance analytics (P&L, Win Rate, etc.).
+-   Data visualization with interactive charts.
+
+
+---
+
+### 🎮 My "Gamer Code"
+
+When I'm not coding, you can find me diving into different worlds.
+
+```javascript
+const Akeber = {
+  pronouns: "he/him",
+  country: "Ethiopia",
+  interests: ["Gaming 🕹️", "Reading Books 📚", "Exploring Tech 💡"],
+  currentlyPlaying: ["FIFA", "Call of Duty", "Elden Ring"],
+  gamerQuote: "We don't stop playing because we grow old; we grow old because we stop playing."
+}
